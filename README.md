@@ -1,4 +1,4 @@
-# client
+# Voice123 Test
 
 ## Project setup
 ```
@@ -15,15 +15,18 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
-
 ### Lints and fixes files
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Todo
+- [x] Create form layout
+- [x] Create query results layout
+- [x] Create pagination
+- [x] Stylize page
+- [x] Responsive Design
+- [ ] Solve audio routes
+- [ ] Fix load of audio files on server
+- [ ] Fix text filters
+- [ ] 
